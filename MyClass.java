@@ -22,6 +22,21 @@ class MyClass {
 	  System.out.println("abishek");
   }
 void abi1(){
+
 	System.out.println("mohanur ");
+
+	System.out.println("Balu");
+
 }
 }
+void Deepika(){
+
+          System.out.println("Deepika first line added");
+	 System.out.println("Deepika secound line added");
+          System.out.println("Deepika");
+}
+void AbiSb()
+{
+	System.out.println("Abishek Sb 12111");
+}
+
