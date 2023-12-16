@@ -22,7 +22,11 @@ class MyClass {
 	  System.out.println("abishek");
   }
 void abi1(){
+
+	System.out.println("mohanur ");
+
 	System.out.println("Balu");
+
 }
 }
 void Deepika(){
