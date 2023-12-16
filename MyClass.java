@@ -18,4 +18,10 @@ class MyClass {
   {
 	  System.out.println("division of two numbers: " &x/y);
   }
+  void abi(){
+	  System.out.println("abishek");
+  }
+void abi1(){
+	System.out.println("mohanur");
+}
 }
