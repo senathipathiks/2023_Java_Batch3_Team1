@@ -26,7 +26,13 @@ void abi1(){
 }
 }
 void Deepika(){
+
           System.out.println("Deepika first line added");
 	 System.out.println("Deepika secound line added");
+          System.out.println("Deepika");
+}
+void AbiSb()
+{
+	System.out.println("Abishek Sb 12111");
 }
 
