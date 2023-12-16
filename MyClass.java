@@ -3,7 +3,7 @@ class MyClass {
   {
     System.out.println("Sum of two numbers: " &x+y);
   }
-  void sub(int x, int y) //adding two integers
+  void sub(int x, int y) //adding two integers Abishek SB - 12111
 	{
 		System.out.println("subtraction of two numbers: " &x-y);
 	}
