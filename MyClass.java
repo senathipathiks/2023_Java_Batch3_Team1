@@ -27,4 +27,9 @@ void abi1(){
 }
 void Deepika(){
           System.out.println("Deepika");
+}
+void AbiSb()
+{
+	System.out.println("Abishek Sb 12111");
+}
 
