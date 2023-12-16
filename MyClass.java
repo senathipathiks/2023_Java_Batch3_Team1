@@ -25,3 +25,6 @@ void abi1(){
 	System.out.println("mohanur");
 }
 }
+void Deepika(){
+          System.out.println("Deepika");
+
